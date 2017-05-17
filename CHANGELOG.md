@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/gabrielrtakeda/testing-commit-convention/compare/v1.1.1...v2.0.0) (2017-05-17)
+
+
+### Bug Fixes
+
+* **app:** bar ([e9d2b5a](https://github.com/gabrielrtakeda/testing-commit-convention/commit/e9d2b5a))
+
+
+### Features
+
+* **app:** changes that will break ([d812be1](https://github.com/gabrielrtakeda/testing-commit-convention/commit/d812be1))
+* **app:** foo ([a62ff28](https://github.com/gabrielrtakeda/testing-commit-convention/commit/a62ff28))
+
+
+### BREAKING CHANGES
+
+* **app:** it will change the way that API exposes the module
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/gabrielrtakeda/testing-commit-convention/compare/v1.1.0...v1.1.1) (2017-05-17)
 
