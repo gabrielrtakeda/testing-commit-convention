@@ -8,3 +8,4 @@ perf: foo
 perf(webpack): perf with webpack scope
 test: foo
 test(app): test with scope
+chore: foo
