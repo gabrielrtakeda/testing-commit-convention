@@ -13,3 +13,4 @@ chore(app): chore with scope
 fix: foo
 fix(app): foo
 feat(app): foo
+fix(app): bar
