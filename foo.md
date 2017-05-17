@@ -17,3 +17,4 @@ fix(app): bar
 feat(app): changes that will break
 feat(app): feature 01
 feat(app): feature 02
+feat(app): feature 03
