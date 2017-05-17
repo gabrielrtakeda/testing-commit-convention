@@ -11,3 +11,4 @@ test(app): test with scope
 chore: foo
 chore(app): chore with scope
 fix: foo
+fix(app): foo
