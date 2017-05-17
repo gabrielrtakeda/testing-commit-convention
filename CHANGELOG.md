@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/gabrielrtakeda/testing-commit-convention/compare/v2.0.0...v2.1.0) (2017-05-17)
+
+
+### Features
+
+* **app:** feature 01 ([91142cd](https://github.com/gabrielrtakeda/testing-commit-convention/commit/91142cd))
+* **app:** feature 02 ([95f2b11](https://github.com/gabrielrtakeda/testing-commit-convention/commit/95f2b11))
+* **app:** feature 03 ([f28c777](https://github.com/gabrielrtakeda/testing-commit-convention/commit/f28c777))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/gabrielrtakeda/testing-commit-convention/compare/v1.1.1...v2.0.0) (2017-05-17)
 
