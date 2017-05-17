@@ -1,0 +1,11 @@
+{
+  "name": "testing-commit-convention",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabrielrtakeda/testing-commit-convention.git",
+  "author": "Gabriel Ramos Takeda <gabrielrtakeda@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^4.0.0"
+  }
+}
