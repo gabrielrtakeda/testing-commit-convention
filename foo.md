@@ -14,3 +14,4 @@ fix: foo
 fix(app): foo
 feat(app): foo
 fix(app): bar
+feat(app): changes that will break
