@@ -6,3 +6,4 @@ refactor: foo
 refactor(project): refactor with scope
 perf: foo
 perf(webpack): perf with webpack scope
+test: foo
